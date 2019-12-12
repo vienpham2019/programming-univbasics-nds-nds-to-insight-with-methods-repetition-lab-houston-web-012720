@@ -26,6 +26,8 @@ end
 
 def list_of_directors(source)
   # Write this implementation
+  director_name = {}
+  
 end
 
 def total_gross(source)
