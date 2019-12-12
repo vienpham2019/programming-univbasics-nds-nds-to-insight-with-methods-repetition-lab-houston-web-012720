@@ -33,7 +33,7 @@ def list_of_directors(source)
     index += 1
   end
   
-  director_name
+  director_names
 end
 
 def total_gross(source)
