@@ -27,8 +27,7 @@ end
 def list_of_directors(source)
   # Write this implementation
   director_name = []
-  array = []
-  array = directors_totals(source).to_a
+  array = directors_totals(source)
   index = 0
   while index < array.length do
     director_name << array[index][0]
